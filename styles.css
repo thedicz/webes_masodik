@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: rgb(246,5,106);
+    background: linear-gradient(205deg, rgba(204,79,170,1) 0%, rgba(218,60,132,1) 21%, rgba(240,55,130,1) 41%, rgba(247,164,129,1) 72%, rgba(254,232,163,1) 94%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.aktiv {
+    display: show;
+}
+
+.eltunt {
+    display: none;
+    visibility: hidden;
+}
+
+.container {
+    width: 500px;
+    
+}
